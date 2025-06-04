@@ -1,4 +1,4 @@
-# Ubuntu_Linux_VM_Vulnerability_Scanning
+# Ubuntu Linux VM Unauthenticated vs Authenticated Scanning
 
 This project documents the vulnerability scanning of an **Ubuntu Linux Virtual Machine (VM)** deployed in Azure, using **Tenable.io** for both unauthenticated and authenticated scans. The project highlights the significant differences in vulnerability detection when using authenticated credentials for scanning.
 
@@ -18,13 +18,13 @@ This project documents the vulnerability scanning of an **Ubuntu Linux Virtual M
 
 ## 📝 Phase 1: VM Creation and Environment Setup
 ✅ **Created a Ubuntu VM in Azure:**  
-![Created VM](https://github.com/user-attachments/assets/4wuMTUpDaFA18UAPqqRSYi)  
+![1- Created a Ubuntu Virtual Machine](https://github.com/user-attachments/assets/3db2a8c1-af82-4ec9-a2f3-230200c5e418)
 
 ✅ **Verified network connectivity (ping):**  
-![Pinging IP Address](https://github.com/user-attachments/assets/F6dsQMgZFGuUvv6dr4ef4E)  
+![2- Make sure IP address is pinging](https://github.com/user-attachments/assets/ad9252c6-5a45-4a6e-a69f-80c04f5e5626)
 
-✅ **Logged into the VM using SSH as user `labuserlinux`:**  
-![SSH Login](https://github.com/user-attachments/assets/GDLEF1sDZkfUR7FbibzK6S)
+✅ **Logged into the VM using SSH as user `LABUSERLINUX`:**  
+![3- Logging into the Ubuntu Server from Terminal](https://github.com/user-attachments/assets/9fcce176-fce0-47af-a7e1-e5d4ab17c887)
 
 ✅ **Escalated privileges to root for full administrative access:**  
 ![Root Access](https://github.com/user-attachments/assets/J8STY87XGNqfkhoA2fWcvk)  
