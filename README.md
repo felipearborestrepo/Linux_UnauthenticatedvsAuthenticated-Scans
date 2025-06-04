@@ -25,27 +25,27 @@ This project documents the vulnerability scanning of an **Ubuntu Linux Virtual M
 
 ✅ **Logged into the VM using SSH as user `LABUSERLINUX`:**  
 ![3- Logging into the Ubuntu Server from Terminal](https://github.com/user-attachments/assets/9fcce176-fce0-47af-a7e1-e5d4ab17c887)
-
-✅ **Escalated privileges to root for full administrative access:**  
-![Root Access](https://github.com/user-attachments/assets/J8STY87XGNqfkhoA2fWcvk)  
+![4- Logged In](https://github.com/user-attachments/assets/e6f796a3-f11c-42f2-aadb-9737930a62b9)
 
 ---
 
 ## 📝 Phase 2: Unauthenticated Scan
 ✅ **Created a Basic Network Scan in Tenable:**  
-![Creating Scan in Tenable](https://github.com/user-attachments/assets/4- Creating a Basic Scan in Tenable.png)  
-![Configuring the Scan](https://github.com/user-attachments/assets/M9pyT426eXuXhx8DfiQuiK)  
-✅ **Set the target as the VM's private IP:**  
-![Putting Target IP](https://github.com/user-attachments/assets/WrypRqyZFWgxAX5o5NrfB8)  
+![5- Opened Tenable and creating a Basic Network Scan](https://github.com/user-attachments/assets/c2ab1d71-3ffb-46a6-a7b7-0c1f349f2085)
+ 
+✅ **Configuring the Unauthenticated Scan and setting the private IP address as the only target:**  
+![6- Configuring the Basic Network Scan](https://github.com/user-attachments/assets/84470b24-d882-4bed-bf74-4c3b9fa281a6)
+![6- Putting the private IP from the VM as a target](https://github.com/user-attachments/assets/fa466918-9985-4cc4-b8e2-259ff286ac69)
 
 ✅ **Edited Discovery settings for custom and fast scanning:**  
-![Editing Discovery Page](https://github.com/user-attachments/assets/AMG9kyYRnLEHgf1n828x97)  
+  ![7- Editing the Discovery page to Custom, and enabling a fast network discovery](https://github.com/user-attachments/assets/145c244f-fb7f-43d8-b249-410e07331cf9)
 
-✅ **Unauthenticated Scan Results:**  
-- Summary of vulnerabilities (1 critical, 2 high, 3 medium, 2 low, 57 informational)  
-![Unauthenticated Scan Summary](https://github.com/user-attachments/assets/AUkCpn2iHHNxz7X37LLnku)  
-- Exported results for better analysis:  
-![Exported Results](https://github.com/user-attachments/assets/9- Exported Unauthenticated Scan Results.png)  
+✅ **Unauthenticated Scan Completion and Results:**  
+![8- Unauthenticated Scan Completed](https://github.com/user-attachments/assets/36411adc-01a3-4d49-8029-6d941d867458)
+![9- Results in from Unauthenticated Scan](https://github.com/user-attachments/assets/68d8b327-5699-4baa-ad13-4ee33a5b8c0d)
+
+✅ **Exported Results for better analysis:**
+![9- Exported Unauthenticated Scan Results](https://github.com/user-attachments/assets/7649c484-bc53-43e4-8718-acdc851e86b4)
 
 ---
 
