@@ -51,22 +51,25 @@ This project documents the vulnerability scanning of an **Ubuntu Linux Virtual M
 
 ## 📝 Phase 3: Enabling Root SSH for Authenticated Scanning
 ✅ **Reset root password and enable remote login:**  
-![Reset Root Password](https://github.com/user-attachments/assets/3qsEjZnNPmfobBDKSpo5Yh)  
-![Permit Root Login](https://github.com/user-attachments/assets/5y3YRr9GUrvTYuvsCsHskR)  
+![10- Reset the root passwd to default](https://github.com/user-attachments/assets/5254d5b5-b0c2-4d84-b036-a35548f218b5)
+![11- Command allow the root to be used to login remotely](https://github.com/user-attachments/assets/959849dd-8ece-4df3-9812-dffcf0dbf7e5)
 
 ✅ **Verified SSH login as root:**  
-![SSH as Root](https://github.com/user-attachments/assets/YZgRotcbJNDC8vNacJyA35)  
+![12- Logged back to the VM as root](https://github.com/user-attachments/assets/eae81b5e-304d-4864-a1cd-5387601e6555)
+![13- Logged in successfully](https://github.com/user-attachments/assets/07676c5c-7b51-44c6-8524-99d582af6e5f)
 
 ---
 
 ## 📝 Phase 4: Authenticated Scan
-✅ **Edited the scan settings to include SSH root credentials:**  
-![Editing SSH Credentials in Tenable](https://github.com/user-attachments/assets/MMhRzZpf1W6GamcXDNuyEq)  
+✅ **Edited the scan for an Authenticated Scan and went to Credentials to include SSH root credentials:**  
+![14- Edited the last scan for a Authenticated Scan Setting up the ssh credentials](https://github.com/user-attachments/assets/4cf9da49-b4d1-40cd-a0a5-efa812f531bc)
 
 ✅ **Ran the authenticated scan:**  
-![Authenticated Scan Completion](https://github.com/user-attachments/assets/15- Authenticated Scan completed.png)  
+![15- Authenticated Scan completed](https://github.com/user-attachments/assets/d9377a93-0584-4826-ae0c-9928f676a745)
+![16- Results in Tenable](https://github.com/user-attachments/assets/bd530b0a-6d16-4e4e-ab35-a7f46b0110b5)
+
 ✅ **Exported results for better analysis:**  
-![Exported Authenticated Scan Results](https://github.com/user-attachments/assets/16- Exported Results for better evaluation.png)  
+![16- Exported Results for better evaluation](https://github.com/user-attachments/assets/9b973e5b-19d8-4872-9346-b2433c03d0a2)
 
 ---
 
