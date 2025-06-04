@@ -66,7 +66,8 @@ This project documents the vulnerability scanning of an **Ubuntu Linux Virtual M
 
 ✅ **Ran the authenticated scan:**  
 ![15- Authenticated Scan completed](https://github.com/user-attachments/assets/d9377a93-0584-4826-ae0c-9928f676a745)
-![16- Results in Tenable](https://github.com/user-attachments/assets/bd530b0a-6d16-4e4e-ab35-a7f46b0110b5)
+![Screenshot 2025-06-04 113058](https://github.com/user-attachments/assets/788fd1ca-e7e1-4ab3-ba04-17a86955a52c)
+
 
 ✅ **Exported results for better analysis:**  
 ![16- Exported Results for better evaluation](https://github.com/user-attachments/assets/9b973e5b-19d8-4872-9346-b2433c03d0a2)
